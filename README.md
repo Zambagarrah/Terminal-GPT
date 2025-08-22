@@ -22,7 +22,7 @@ tgpt is a cross-platform command-line interface (CLI) tool that allows you to us
 - [Pollinations](https://pollinations.ai/) ([Many free models](https://text.pollinations.ai/models))
 
 **Image Generation Models**: 
-- BlackBoxAi
+- BlackBoxAi.
 - Pollinations
 
 ## Usage 
