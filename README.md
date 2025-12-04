@@ -98,6 +98,7 @@ Supported models: flux, turbo
 
 Provider: blackboxai
 
+
 Examples:
 tgpt "What is internet?"
 tgpt -m
