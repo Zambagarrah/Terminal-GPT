@@ -119,7 +119,7 @@ The default download location is `/usr/local/bin`, but you can change it in the 
 You can download it with the following command:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/aandrew-me/tgpt/main/install | bash -s /usr/local/bin
+curl -sSL https://raw.githubusercontent.com/Zambagarrah/tgpt/main/install | bash -s /usr/local/bin
 ```
 
 If you are using Arch Linux, you can install with pacman:
@@ -145,7 +145,7 @@ pkg install tgpt
 You need to [add the Go install directory to your system's shell path](https://go.dev/doc/tutorial/compile-install). 
 
 ```bash
-go install github.com/aandrew-me/tgpt/v2@latest
+go install github.com/Zambagarrah/tgpt/v2@latest
 ```
 
 ### Windows 🪟
@@ -153,7 +153,7 @@ go install github.com/aandrew-me/tgpt/v2@latest
 -   **Scoop:** Package installation with [Scoop](https://scoop.sh/) can be done using the following command:
 
     ```bash
-    scoop install https://raw.githubusercontent.com/aandrew-me/tgpt/main/tgpt.json
+    scoop install https://raw.githubusercontent.com/Zambagarrah/tgpt/main/tgpt.json
     ```
 - **Chocolatey** 
     ```bash
