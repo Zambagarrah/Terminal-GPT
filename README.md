@@ -24,7 +24,7 @@ tgpt is a cross-platform command-line interface (CLI) tool that allows you to us
 **Image Generation Models**: 
 - BlackBoxAi.
 - Pollinations.
-.
+..
 
 ## Usage 
 
