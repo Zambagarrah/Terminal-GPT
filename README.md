@@ -25,7 +25,7 @@ tgpt is a cross-platform command-line interface (CLI) tool that allows you to us
 - BlackBoxAi.
 - Pollinations.
 ..
-
+.
 ## Usage 
 
 ```
